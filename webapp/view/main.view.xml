@@ -1,7 +1,7 @@
 <mvc:View controllerName="com.ppg.fioricicd.controller.main" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <content>
-            <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Fiori CICD">
+            <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Fiori CI/CD">
                 <TileContent>
                     <ImageContent src="sap-icon://sap-ui5" />
                 </TileContent>
