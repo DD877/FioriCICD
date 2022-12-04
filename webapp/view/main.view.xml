@@ -1,5 +1,6 @@
 <mvc:View controllerName="com.ppg.fioricicd.controller.main" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
-    <Page id="page" title="{i18n>title}">
+    <Page id="page" title="fiori cicd
+    ">
         <content>
             <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Fiori CI/CD">
                 <TileContent>
